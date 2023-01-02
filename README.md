@@ -1,0 +1,1 @@
+Movary for Jellyfin Plugin
