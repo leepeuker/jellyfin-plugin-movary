@@ -1,6 +1,6 @@
 # Movary for Jellyfin Plugin
 
-Automatically log in jellyfin watched movies to movary.
+Automatically log in jellyfin watched movies to [movary](https://github.com/leepeuker/movary).
 
 ### Development
 Requirements:
